@@ -30,6 +30,7 @@ public class Konser {
 
     public double getTicketPrice() {
         return ticketPrice;
+        
     }
 
     public void setTicketPrice(double ticketPrice) {
